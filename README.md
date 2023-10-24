@@ -16,3 +16,5 @@ expo start
 
 then choose which device to run
 
+<b> OBS: tried to use expo router to use addTask on different page but got an error that do not find the solution on time. <b/> 
+

@@ -1,5 +1,5 @@
 # requisites
-nodejs version 18+
+nodejs version 18.x+
 sdk 49+
 
 # steps to run 

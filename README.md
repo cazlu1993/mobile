@@ -8,6 +8,8 @@ sdk 49+
 https://docs.expo.dev/guides/environment-variables/
 </b>
 
+<b> OBS: web mode the localhost URL works, IOS and android might not work, then use direct your IP address.
+
 npm install
 
 expo start 
